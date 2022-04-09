@@ -13,8 +13,5 @@ Copy and paste link for GitHUb Pages: https://anacecyflores1.github.io/coderefac
 
 <!-- To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax: -->
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
-
-
+Horiseon Website Screenshot:
+<img width="302" alt="screenshothw" src="https://user-images.githubusercontent.com/95557040/162578284-ff9aa9fd-88a3-4f23-a330-b7b2cd27936a.png">
