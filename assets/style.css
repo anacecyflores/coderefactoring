@@ -68,14 +68,12 @@ header nav ul li {
 }
 
 main {
-    width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
 aside {
     margin-right: 20px;
-    text-align:center;
     padding: 20px;
     clear: both;
     float: right;
@@ -109,7 +107,6 @@ aside {
     background-color: #0072bb;
     color: #ffffff;
 }
-
 .sectionstyle img {
     max-height: 200px;
     margin-bottom: 20px;
